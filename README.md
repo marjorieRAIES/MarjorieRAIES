@@ -11,5 +11,5 @@ effectuer une alternance à partir de septembre 2024.
 problem solving, I am now a web developer. Curious by nature and passionate about tech, I am looking for a company to
 carry out a work-study program from September 2024.
 
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+
 
