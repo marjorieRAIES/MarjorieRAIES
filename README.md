@@ -1,6 +1,6 @@
 ![Cover](https://github.com/MarjorieMARCOS/MarjorieMARCOS/blob/main/banner.jpg)
 
-# ABOUT ME : 
+# 👉ABOUT ME : 
 
 - 👋 Hi, I’m @MarjorieMARCOS 
 - 🌱 I’m currently learning at Oclock School
@@ -14,7 +14,7 @@ effectuer une alternance à partir de septembre 2024.
 problem solving, I am now a web developer. Curious by nature and passionate about tech, I am looking for a company to
 carry out a work-study program from September 2024.
 
-# SKILLS : 
+# 👉SKILLS : 
 ## HARD SKILSS
 <p>   
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,5 +35,7 @@ carry out a work-study program from September 2024.
 
 https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347
 
-##  📫 How to reach me marcos.marjorie@hotmail.fr
+# 📫 How to reach me ? 
+You could contact me at marcos.marjorie@hotmail.fr
+Or https://www.linkedin.com/in/marjoriemarcos/ 
 
