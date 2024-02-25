@@ -35,6 +35,7 @@ carry out a work-study program from September 2024.
 ## SOFT SKILLS
 
 <img alt="TeamSpirit" src="https://img.shields.io/badge/TEAMSPIRIT-66a3ff" />
+<img alt="Ambitious" src="https://img.shields.io/badge/AMBITIOUS-66a3ff" />
 
 
 
