@@ -30,7 +30,8 @@ carry out a work-study program from September 2024.
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" />
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    <img alt="CodinGame" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
+    <img alt="CodeCademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
+    <img alt="CodinGame" src="https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=for-the-badge" />
 </p>
 
 
