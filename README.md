@@ -45,7 +45,7 @@ carry out a work-study program from September 2024.
 
 # 💻 Project already done
 
-![Static Badge](https://img.shields.io/badge/NetPrime-Click_here-link?style=for-the-badge&color=blue&link=MarjorieMARCOS/NetPrime)
+![Static Badge](https://img.shields.io/badge/NetPrime-Click_here-link?style=for-the-badge&color=blue&link=https://github.com/MarjorieMARCOS/NetPrime)
 
 
 # 📫 How to reach me ? 
