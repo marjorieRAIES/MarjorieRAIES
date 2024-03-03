@@ -38,9 +38,9 @@ carry out a work-study program from September 2024.
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img alt="CodeCademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
     <img alt="CodinGame" src="https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=for-the-badge" />
-    <img alt="TeamPlayer" src="https://img.shields.io/badge/TEAMPLAYER-66a3ff" />
-    <img alt="Ambitious" src="https://img.shields.io/badge/AMBITIOUS-66a3ff" />
-    <img alt="Resilient" src="https://img.shields.io/badge/RESILIENT-66a3ff" />
+    <img alt="TeamPlayer" src="https://img.shields.io/badge/TEAMPLAYER-blue?style=for-the-badge" />
+    <img alt="Ambitious" src="https://img.shields.io/badge/AMBITIOUS-blue?style=for-the-badge" />
+    <img alt="Resilient" src="https://img.shields.io/badge/RESILIENT-blue?style=for-the-badge" />
 </p>
 
 # 💻 Project already done
