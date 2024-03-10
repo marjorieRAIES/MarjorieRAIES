@@ -27,14 +27,14 @@ carry out a work-study program from September 2024.
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" />
 </p>
 
 
 ## SOFT SKILLS
 
 <p>
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" />
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img alt="CodeCademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
     <img alt="CodinGame" src="https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=for-the-badge" />
@@ -46,7 +46,7 @@ carry out a work-study program from September 2024.
 # 💻 Project already done
 
 ![Static Badge](https://img.shields.io/badge/NetPrime-Click_here-link?style=for-the-badge&color=blue&link=https://github.com/MarjorieMARCOS/NetPrime)
-
+![Static Badge](https://img.shields.io/badge/NetPrime-Click_here-link?style=for-the-badge&color=blue&link=https://github.com/MarjorieMARCOS/Pokedex)
 
 # 📫 How to reach me ? 
 You could contact me at marcos.marjorie@hotmail.fr
