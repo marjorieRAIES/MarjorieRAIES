@@ -55,7 +55,7 @@ carry out a work-study program from September 2024.
 <br>
 <img alt="Avangers" src="https://img.shields.io/badge/Avangers-red?style=for-the-badge" /> 👉 [Avangers](https://marjoriemarcos.github.io/avangers/)
 <br>
-<img alt="Tripodsisor" src="https://img.shields.io/badge/Tripodsisor-green?style=for-the-badge" /> 👉 [Tripodsasor](https://marjoriemarcos.github.io/tripodsasor/)
+<img alt="Tripodsisor" src="https://img.shields.io/badge/Tripodsisor-green?style=for-the-badge" /> 👉 [Tripodsasor](https://marjoriemarcos.github.io/tripodvisor/)
 
 # 📫 How to reach me ? 
 You could contact me at marcos.marjorie@hotmail.fr
