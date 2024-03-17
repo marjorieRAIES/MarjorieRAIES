@@ -45,12 +45,17 @@ carry out a work-study program from September 2024.
 
 # 💻 Project already done
 
-![Static Badge](https://img.shields.io/badge/NetPrime-Click_here-link?style=for-the-badge&color=blue&link=https://github.com/MarjorieMARCOS/NetPrime)
-![Static Badge](https://img.shields.io/badge/Pokedex-Click_here-link?style=for-the-badge&color=blue&link=https://github.com/MarjorieMARCOS/Pokedex)
-![Static Badge](https://img.shields.io/badge/OShop-Click_here-link?style=for-the-badge&color=blue&link=https://github.com/MarjorieMARCOS/OShop)
-[Onews](https://marjoriemarcos.github.io/onews/)
-[Avangers](https://marjoriemarcos.github.io/avangers/)
-[Tripodsasor](https://marjoriemarcos.github.io/tripodsasor/)
+<img alt="Oshop" src="https://img.shields.io/badge/Oshop-green?style=for-the-badge" /> 👉 [Oshop](https://github.com/marjoriemarcos/OShop)
+<br>
+<img alt="Pokedex" src="https://img.shields.io/badge/Pokedex-red?style=for-the-badge" /> 👉 [Pokedex](https://github.com/marjoriemarcos/Pokedex)
+<br>
+<img alt="NetPrime" src="https://img.shields.io/badge/NetPrime-blue?style=for-the-badge" /> 👉 [NetPrime](https://github.com/marjoriemarcos/NetPrime)
+<br>
+<img alt="Onews" src="https://img.shields.io/badge/Onews-blue?style=for-the-badge" /> 👉 [Onews](https://marjoriemarcos.github.io/onews/)
+<br>
+<img alt="Avangers" src="https://img.shields.io/badge/Avangers-red?style=for-the-badge" /> 👉 [Avangers](https://marjoriemarcos.github.io/avangers/)
+<br>
+<img alt="Tripodsisor" src="https://img.shields.io/badge/Tripodsisor-green?style=for-the-badge" /> 👉 [Tripodsasor](https://marjoriemarcos.github.io/tripodsasor/)
 
 # 📫 How to reach me ? 
 You could contact me at marcos.marjorie@hotmail.fr
