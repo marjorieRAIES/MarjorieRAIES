@@ -1,4 +1,4 @@
-![Cover](https://github.com/MarjorieMARCOS/MarjorieMARCOS/blob/main/banner.jpg)
+![Cover](https://github.com/MarjorieMARCOS/MarjorieMARCOS/blob/main/banner.png)
 
 # 👉ABOUT ME : 
 
