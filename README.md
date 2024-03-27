@@ -45,7 +45,7 @@ carry out a work-study program from September 2024.
 
 # 💻 Project already done
 
-<img alt="Oshop" src="https://img.shields.io/badge/Oshop-green?style=for-the-badge" /> 👉 [Oshop](https://github.com/marjoriemarcos/OShop)
+<img alt="Oshop" src="https://img.shields.io/badge/Oshop-green?style=for-the-badge" /> 👉 [Oshop](https://github.com/marjoriemarcos/O-Shop)
 <br>
 <img alt="Pokedex" src="https://img.shields.io/badge/Pokedex-red?style=for-the-badge" /> 👉 [Pokedex](https://github.com/marjoriemarcos/Pokedex)
 <br>
