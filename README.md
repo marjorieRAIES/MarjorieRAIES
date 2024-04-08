@@ -23,6 +23,7 @@ carry out a work-study program from September 2024.
     <img alt="Sass" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" />
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge" />
+    <img alt="Twig" src="https://img.shields.io/badge/Twig-000?logo=twig&logoColor=fff&style=for-the-badge" />
     <img alt="PHPMyadmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=for-the-badge" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
