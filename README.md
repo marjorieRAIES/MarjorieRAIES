@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning at Oclock School
 - 💞️ I’m looking to collaborate on work-study program from September 2024
 
-🇫🇷 Après avoir travaillé pendant des années, dans les ressources humains et le customer success et animée par l’envie de découvrir de nouveaux horizons et
+🇫🇷 Après avoir travaillé pendant des années, dans les ressources humaines et le customer success et animée par l’envie de découvrir de nouveaux horizons et
 la résolution de problème, je suis aujourd’hui développeuse web. De nature curieuse et passionnée par la tech, je suis à la recherche d’une entreprise pour
 effectuer une alternance à partir de septembre 2024.
 
