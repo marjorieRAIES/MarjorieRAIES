@@ -1,4 +1,4 @@
-![Cover](https://github.com/MarjorieMARCOS/MarjorieMARCOS/blob/main/banner.jpg)
+![Cover](https://github.com/MarjorieMARCOS/MarjorieMARCOS/blob/main/banner.png)
 
 # 👉ABOUT ME : 
 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning at Oclock School
 - 💞️ I’m looking to collaborate on work-study program from September 2024
 
-🇫🇷 Après avoir travaillé pendant des années, dans les ressources humains et le customer success et animée par l’envie de découvrir de nouveaux horizons et
+🇫🇷 Après avoir travaillé pendant des années, dans les ressources humaines et le customer success et animée par l’envie de découvrir de nouveaux horizons et
 la résolution de problème, je suis aujourd’hui développeuse web. De nature curieuse et passionnée par la tech, je suis à la recherche d’une entreprise pour
 effectuer une alternance à partir de septembre 2024.
 
@@ -23,6 +23,7 @@ carry out a work-study program from September 2024.
     <img alt="Sass" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" />
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge" />
+    <img alt="Twig" src="https://img.shields.io/badge/Twig-000?logo=twig&logoColor=fff&style=for-the-badge" />
     <img alt="PHPMyadmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=for-the-badge" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -61,7 +62,8 @@ carry out a work-study program from September 2024.
 You could contact me at marcos.marjorie@hotmail.fr
 Or https://www.linkedin.com/in/marjoriemarcos/ 
 
-# 🌟 My resume just here 
+# 🌟 My resume just here : 
+
 <details>
 
 [resume](Resume.pdf)
