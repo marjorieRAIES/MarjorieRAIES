@@ -62,10 +62,7 @@ carry out a work-study program from September 2024.
 You could contact me at marcos.marjorie@hotmail.fr
 Or https://www.linkedin.com/in/marjoriemarcos/ 
 
-# 🌟 My resume just here : 
+# 🌟 My resume just here [resume](Resume.pdf)
 
-<details>
 
-[resume](Resume.pdf)
 
-</details>
