@@ -64,5 +64,7 @@ Or https://www.linkedin.com/in/marjoriemarcos/
 
 # 🌟 My resume just here [resume](Resume.pdf)
 
-
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=marjoriemarcos&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjoriemarcos&layout=compact&theme=radical)](https://github.com/marjoriemarcos/github-readme-stats)
 
