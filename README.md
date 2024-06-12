@@ -57,7 +57,7 @@ carry out a work-study program from September 2024.
 <br>
 <img alt="NetPrime" src="https://img.shields.io/badge/NetPrime-blue?style=for-the-badge" /> 👉 [NetPrime](https://github.com/marjoriemarcos/NetPrime)
 <br>
-<img alt="O'Festival" src="https://img.shields.io/badge/O'Fetival-blue?style=for-the-badge" /> 👉 [O'Festival](https://github.com/marjoriemarcos/O-Festival)
+<img alt="O'Festival" src="https://img.shields.io/badge/O'Festival-blue?style=for-the-badge" /> 👉 [O'Festival](https://github.com/marjoriemarcos/O-Festival)
 <br>
 <img alt="Avangers" src="https://img.shields.io/badge/Avangers-red?style=for-the-badge" /> 👉 [Avangers](https://marjoriemarcos.github.io/avangers/)
 <br>
