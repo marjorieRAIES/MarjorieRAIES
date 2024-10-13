@@ -3,16 +3,15 @@
 # 👉ABOUT ME : 
 
 - 👋 Hi, I’m @MarjorieMARCOS 
-- 🌱 I’m currently learning at Oclock School
-- 💞️ I’m looking to collaborate on work-study program from September 2024
+- 🌱 I’m currently learning at Wild Code School (ex Oclock School 😍)
+- 💞️ I started a new position as Full Stack developper with HomeExchange
 
-🇫🇷 Après avoir travaillé pendant des années, dans les ressources humaines et le customer success et animée par l’envie de découvrir de nouveaux horizons et
-la résolution de problème, je suis aujourd’hui développeuse web. De nature curieuse et passionnée par la tech, je suis à la recherche d’une entreprise pour
-effectuer une alternance à partir de septembre 2024.
+🇫🇷 Après avoir travaillé pendant des années dans les ressources humaines et le customer success, et animée par l’envie de découvrir de nouveaux horizons et
+la résolution de problème, je suis aujourd’hui développeuse web. J'ai fait une première formation de 6 mois intensive avec l'école O'clock (Titre Professionnel eu avec succes 🤓).
+Puis, pour continuer ma montée en compétences, j'ai débuté une nouvelle formation en apprentissage cette fois, en tant que developpeur full stack avec la société HomeExchange.
 
-🇬🇧 After having worked for a fews years in human resources and customer success and driven by the desire to discover new horizons and
-problem solving, I am now a web developer. Curious by nature and passionate about tech, I am looking for a company to
-carry out a work-study program from September 2024.
+🇬🇧 After working for several years in human resources and customer success, driven by a desire to explore new horizons and engage in problem solving, I transitioned into web development. (successfully obtaining my diploma 🤓).
+Eager to continue improving my IT skills, I started a new position 2 months ago as a full stack developer apprentice at HomeExchange.. 
 
 # 👉SKILLS : 
 ## HARD SKILS
@@ -26,8 +25,8 @@ carry out a work-study program from September 2024.
     <img alt="Twig" src="https://img.shields.io/badge/Twig-000?logo=twig&logoColor=fff&style=for-the-badge" />
     <img alt="PHPMyadmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=for-the-badge" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
