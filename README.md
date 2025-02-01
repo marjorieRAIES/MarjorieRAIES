@@ -8,10 +8,10 @@
 
 🇫🇷 Après avoir travaillé pendant des années dans les ressources humaines et le customer success, et animée par l’envie de découvrir de nouveaux horizons et
 la résolution de problème, je suis aujourd’hui développeuse web. J'ai fait une première formation de 6 mois intensive avec l'école O'clock (Titre Professionnel eu avec succes 🤓).
-Puis, pour continuer ma montée en compétences, j'ai débuté une nouvelle formation en apprentissage cette fois, en tant que developpeur full stack avec la société HomeExchange.
+Actuellement, je suis en contrat de professionnalisation avec la société Home Exchange pendant 15 mois.
 
 🇬🇧 After working for several years in human resources and customer success, driven by a desire to explore new horizons and engage in problem solving, I transitioned into web development. I completed my first training with O'Clock School (successfully obtaining my diploma 🤓).
-Eager to continue improving my IT skills, I started a new position 2 months ago as a full stack developer apprentice at HomeExchange.. 
+Currently, I am on a 15-month professionalization contract with HomeExchange.
 
 # 👉SKILLS : 
 ## HARD SKILS
