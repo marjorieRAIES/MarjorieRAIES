@@ -1,8 +1,8 @@
-![Cover](https://github.com/MarjorieMARCOS/MarjorieMARCOS/blob/main/banner.png)
+![Cover](https://github.com/marjorieRAIES/MarjorieRAIES/blob/main/banner.png)
 
 # 👉ABOUT ME :
 
-- 👋 Hi, I’m @MarjorieMARCOS
+- 👋 Hi, I’m @MarjorieRAIES
 - 🌱 I’m currently learning at Simplon (ex Oclock School 😍)
 - 💞️ I started a new position as Full Stack developper with HomeExchange
 - 🚀 I'm currently for a new position starting from 15th of November
@@ -59,6 +59,6 @@
 
 # 📫 How to reach me ?
 
-You could contact me at marcos.marjorie@hotmail.fr or on [my Linkedin](https://www.linkedin.com/in/marjoriemarcos/)
+You could contact me at marcos.marjorie@hotmail.fr or on [my Linkedin](https://www.linkedin.com/in/marjorieraies/)
 
 # 🌟 My resume just here ➡️ [resume](./resume.pdf)
