@@ -52,15 +52,14 @@
 <br>
 <img alt="O'Festival" src="https://img.shields.io/badge/O'Festival-blue?style=for-the-badge" /> 👉 [O'Festival](https://github.com/marjoriemarcos/O-Festival)
 <br>
-<img alt="Eco-challenge" src="https://img.shields.io/badge/Eco_challenge-blue?style=for-the-badge" /> 👉 [Eco-challenge] (https://github.com/WildCodeSchool/2024-09-wns-jaune-ecochallenges/)
+<img alt="Eco-challenge" src="https://img.shields.io/badge/Eco_challenge-blue?style=for-the-badge" /> 👉 [Eco-challenge](https://github.com/WildCodeSchool/2024-09-wns-jaune-ecochallenges/)
 <br>
-<img alt="Tenisu" src="https://img.shields.io/badge/Tenisu-blue?style=for-the-badge" /> 👉 [Eco-challenge] (https://github.com/marjoriemarcos/tenisu/)
+<img alt="Tenisu" src="https://img.shields.io/badge/Tenisu-blue?style=for-the-badge" /> 👉 [Eco-challenge](https://github.com/marjoriemarcos/tenisu/)
 
 # 📫 How to reach me ? 
-You could contact me at marcos.marjorie@hotmail.fr
-Or https://www.linkedin.com/in/marjoriemarcos/ 
+You could contact me at marcos.marjorie@hotmail.fr or on [my Linkedin](https://www.linkedin.com/in/marjoriemarcos/)
 
-# 🌟 My resume just here [resume](Resume.pdf)
+# 🌟 My resume just here ➡️ [resume](Resume.pdf)
 
 
 
