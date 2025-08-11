@@ -1,8 +1,8 @@
 ![Cover](https://github.com/MarjorieMARCOS/MarjorieMARCOS/blob/main/banner.png)
 
-# 👉ABOUT ME : 
+# 👉ABOUT ME :
 
-- 👋 Hi, I’m @MarjorieMARCOS 
+- 👋 Hi, I’m @MarjorieMARCOS
 - 🌱 I’m currently learning at Simplon (ex Oclock School 😍)
 - 💞️ I started a new position as Full Stack developper with HomeExchange
 - 🚀 I'm currently for a new position starting from 15th of November
@@ -11,8 +11,10 @@
 
 🇬🇧 Web developer after several years in human resources and customer success. Trained at O’Clock School (Professional Diploma earned 🤓) and currently in a professionalization contract at HomeExchange. Upon completion, I will graduate with a Bachelor’s/Master’s level – Professional Title: Application Designer & Developer. Looking for a permanent position to keep taking on technical and human challenges.
 
-# 👉SKILLS : 
+# 👉SKILLS :
+
 ## HARD SKILS
+
 <p>   
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,7 +33,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjoriemarcos&layout=compact&theme=radical)](https://github.com/marjoriemarcos/github-readme-stats)
 <br>
-
 
 ## SOFT SKILLS
 
@@ -56,10 +57,8 @@
 <br>
 <img alt="Tenisu" src="https://img.shields.io/badge/Tenisu-blue?style=for-the-badge" /> 👉 [Tenisu](https://github.com/marjoriemarcos/tenisu/)
 
-# 📫 How to reach me ? 
+# 📫 How to reach me ?
+
 You could contact me at marcos.marjorie@hotmail.fr or on [my Linkedin](https://www.linkedin.com/in/marjoriemarcos/)
 
-# 🌟 My resume just here ➡️ [resume](Resume.pdf)
-
-
-
+# 🌟 My resume just here ➡️ [resume](resume.pdf)
