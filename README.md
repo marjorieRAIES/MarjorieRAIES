@@ -3,15 +3,13 @@
 # 👉ABOUT ME : 
 
 - 👋 Hi, I’m @MarjorieMARCOS 
-- 🌱 I’m currently learning at Wild Code School (ex Oclock School 😍)
+- 🌱 I’m currently learning at Simplon (ex Oclock School 😍)
 - 💞️ I started a new position as Full Stack developper with HomeExchange
+- 🚀 I'm currently for a new position starting from 15th of November
 
-🇫🇷 Après avoir travaillé pendant des années dans les ressources humaines et le customer success, et animée par l’envie de découvrir de nouveaux horizons et
-la résolution de problème, je suis aujourd’hui développeuse web. J'ai fait une première formation de 6 mois intensive avec l'école O'clock (Titre Professionnel eu avec succes 🤓).
-Actuellement, je suis en contrat de professionnalisation avec la société Home Exchange pendant 15 mois.
+🇫🇷 Développeuse web après plusieurs années en ressources humaines et customer success. Formée à l’école O’Clock (Titre Professionnel obtenu 🤓) et actuellement en contrat de professionnalisation chez HomeExchange. À la fin de mon apprentissage, j’obtiendrai un Bac+3/4 – Titre Professionnel Concepteur Développeur d’Application. Je recherche un CDI pour continuer à relever des défis techniques et humains.
 
-🇬🇧 After working for several years in human resources and customer success, driven by a desire to explore new horizons and engage in problem solving, I transitioned into web development. I completed my first training with O'Clock School (successfully obtaining my diploma 🤓).
-Currently, I am on a 15-month professionalization contract with HomeExchange.
+🇬🇧 Web developer after several years in human resources and customer success. Trained at O’Clock School (Professional Diploma earned 🤓) and currently in a professionalization contract at HomeExchange. Upon completion, I will graduate with a Bachelor’s/Master’s level – Professional Title: Application Designer & Developer. Looking for a permanent position to keep taking on technical and human challenges.
 
 # 👉SKILLS : 
 ## HARD SKILS
@@ -48,17 +46,15 @@ Currently, I am on a 15-month professionalization contract with HomeExchange.
 
 # 💻 Project already done
 
-<img alt="Oshop" src="https://img.shields.io/badge/Oshop-green?style=for-the-badge" /> 👉 [Oshop](https://github.com/marjoriemarcos/O-Shop)
-<br>
-<img alt="Pokedex" src="https://img.shields.io/badge/Pokedex-red?style=for-the-badge" /> 👉 [Pokedex](https://github.com/marjoriemarcos/Pokedex)
+<img alt="Oshop" src="https://img.shields.io/badge/Oshop-blue?style=for-the-badge" /> 👉 [Oshop](https://github.com/marjoriemarcos/O-Shop)
 <br>
 <img alt="NetPrime" src="https://img.shields.io/badge/NetPrime-blue?style=for-the-badge" /> 👉 [NetPrime](https://github.com/marjoriemarcos/NetPrime)
 <br>
 <img alt="O'Festival" src="https://img.shields.io/badge/O'Festival-blue?style=for-the-badge" /> 👉 [O'Festival](https://github.com/marjoriemarcos/O-Festival)
 <br>
-<img alt="Avangers" src="https://img.shields.io/badge/Avangers-red?style=for-the-badge" /> 👉 [Avangers](https://marjoriemarcos.github.io/avangers/)
+<img alt="Eco-challenge" src="https://img.shields.io/badge/Eco_challenge-blue?style=for-the-badge" /> 👉 [Eco-challenge] (https://github.com/WildCodeSchool/2024-09-wns-jaune-ecochallenges/)
 <br>
-<img alt="Tripodsisor" src="https://img.shields.io/badge/Tripodsisor-green?style=for-the-badge" /> 👉 [Tripodsasor](https://marjoriemarcos.github.io/tripodvisor/)
+<img alt="Tenisu" src="https://img.shields.io/badge/Tenisu-blue?style=for-the-badge" /> 👉 [Eco-challenge] (https://github.com/marjoriemarcos/tenisu/)
 
 # 📫 How to reach me ? 
 You could contact me at marcos.marjorie@hotmail.fr
