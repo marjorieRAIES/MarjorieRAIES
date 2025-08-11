@@ -61,4 +61,4 @@
 
 You could contact me at marcos.marjorie@hotmail.fr or on [my Linkedin](https://www.linkedin.com/in/marjoriemarcos/)
 
-# 🌟 My resume just here ➡️ [resume](resume.pdf)
+# 🌟 My resume just here ➡️ [resume](./resume.pdf)
